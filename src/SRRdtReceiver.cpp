@@ -1,9 +1,9 @@
 #include "../include/Base.h"
 #include "../include/Global.h"
-#include "../include/GBNRdtReceiver.h"
+#include "../include/SRRdtReceiver.h"
 
 
-GBNRdtReceiver::GBNRdtReceiver():expectSequenceNumberRcvd(0),max_seqnum(Configuration::MAX_SEQNUM)
+SRRdtReceiver::SRRdtReceiver():expectSequenceNumberRcvd(0),max_seqnum(Configuration::MAX_SEQNUM)
 {
 	lastAckPkt.acknum = -1; //初始状态下，上次发送的确认包的确认序号为-1，使得当第一个接受的数据包出错时该确认报文的确认号为-1
 	lastAckPkt.checksum = 0;
@@ -15,11 +15,11 @@ GBNRdtReceiver::GBNRdtReceiver():expectSequenceNumberRcvd(0),max_seqnum(Configur
 }
 
 
-GBNRdtReceiver::~GBNRdtReceiver()
+SRRdtReceiver::~SRRdtReceiver()
 {
 }
 
-void GBNRdtReceiver::receive(Packet &packet) {
+void SRRdtReceiver::receive(Packet &packet) {
 	//检查校验和是否正确
 	int checkSum = pUtils->calculateCheckSum(packet);
 

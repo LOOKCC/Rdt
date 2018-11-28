@@ -1,8 +1,8 @@
-#ifndef GBN_RDT_SENDER_H
-#define GBN_RDT_SENDER_H
+#ifndef SR_RDT_SENDER_H
+#define SR_RDT_SENDER_H
 #include "../include/RdtSender.h"
 #include <vector>
-class GBNRdtSender :public RdtSender
+class SRRdtSender :public RdtSender
 {
 private:
 	int expectSequenceNumberSend;	// 下一个发送序号 
@@ -20,8 +20,8 @@ public:
 	void timeoutHandler(int seqNum);					    //Timeout handler，将被NetworkServiceSimulator调用
 
 public:
-	GBNRdtSender();
-	virtual ~GBNRdtSender();
+	SRRdtSender();
+	virtual ~SRRdtSender();
 };
 
 #endif

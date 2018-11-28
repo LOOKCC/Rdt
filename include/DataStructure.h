@@ -12,6 +12,8 @@ struct  Configuration{
 	定时器时间
 	*/
 	static const int TIME_OUT =20;
+	static const int WINDOW_SIZE = 4;
+	static const int MAX_SEQNUM = 8;
 
 };
 

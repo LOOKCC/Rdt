@@ -9,6 +9,7 @@
 struct  RdtReceiver
 {
 	virtual void receive(Packet &packet) = 0;		//接收报文，将被NetworkService调用	
+	// virtual ~RdtReceiver();
 };
 
 #endif

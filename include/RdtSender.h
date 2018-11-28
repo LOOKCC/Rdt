@@ -11,6 +11,7 @@ struct  RdtSender
 	virtual void receive(Packet &ackPkt) = 0;						//接受确认Ack，将被NetworkService调用	
 	virtual void timeoutHandler(int seqNum) = 0;					//Timeout handler，将被NetworkService调用
 	virtual bool getWaitingState() = 0;								//返回RdtSender是否处于等待状态，如果发送方正等待确认或者发送窗口已满，返回true
+	// virtual ~RdtSender();
 };
 
 #endif

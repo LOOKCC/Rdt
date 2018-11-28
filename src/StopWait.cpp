@@ -4,19 +4,19 @@
 #include "../include/Global.h"
 #include "../include/RdtSender.h"
 #include "../include/RdtReceiver.h"
-#include "../include/StopWaitRdtSender.h"
-#include "../include/StopWaitRdtReceiver.h"
+#include "../include/GBNRdtSender.h"
+#include "../include/GBNRdtReceiver.h"
 
 
 int main(int argc, char* argv[])
 {
-	RdtSender *ps = new StopWaitRdtSender();
-	RdtReceiver * pr = new StopWaitRdtReceiver();
+	RdtSender *ps = new GBNRdtSender();
+	RdtReceiver * pr = new GBNRdtReceiver();
 	pns->init();
 	pns->setRtdSender(ps);
 	pns->setRtdReceiver(pr);
-	pns->setInputFile("/home/guxiwu/cpp/project/rdt/input.txt");
-	pns->setOutputFile("/home/guxiwu/cpp/project/rdt/output.txt");
+	pns->setInputFile("../../input.txt");
+	pns->setOutputFile("../../output.txt");
 	pns->start();
 
 	delete ps;

@@ -1,27 +1,27 @@
 #include "../include/Base.h"
 #include "../include/Global.h"
-#include "../include/GBNRdtSender.h"
+#include "../include/SRRdtSender.h"
 
 
-GBNRdtSender::GBNRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
+SRRdtSender::SRRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
 {
 }
 
 
-GBNRdtSender::~GBNRdtSender()
+SRRdtSender::~SRRdtSender()
 {
 }
 
 
 
-bool GBNRdtSender::getWaitingState() {
+bool SRRdtSender::getWaitingState() {
 	return waitingState;
 }
 
 
 
 
-bool GBNRdtSender::send(Message &message) {
+bool SRRdtSender::send(Message &message) {
 	if (this->waitingState) { //发送方处于等待确认状态
 		return false;
 	}
@@ -45,7 +45,7 @@ bool GBNRdtSender::send(Message &message) {
 	return true;
 }
 
-int GBNRdtSender::get_count(int x){
+int SRRdtSender::get_count(int x){
 	for(int i=0; i<this->window.size(); i++){
 		if(this->window[i]->seqnum == x)
 			return i;
@@ -54,7 +54,7 @@ int GBNRdtSender::get_count(int x){
 }
 
 
-void GBNRdtSender::receive(Packet &ackPkt) {
+void SRRdtSender::receive(Packet &ackPkt) {
 	//检查校验和是否正确
 	int checkSum = pUtils->calculateCheckSum(ackPkt);
 	//如果校验和正确，并且确认序号=发送方已发送并等待确认的数据包序号
@@ -75,7 +75,7 @@ void GBNRdtSender::receive(Packet &ackPkt) {
 	}	
 }
 
-void GBNRdtSender::timeoutHandler(int seqNum) {
+void SRRdtSender::timeoutHandler(int seqNum) {
 	int count = get_count(seqNum);
 	if(count == -1)
 		return ;
