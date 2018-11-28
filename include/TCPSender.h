@@ -1,17 +1,17 @@
-#ifndef SR_RDT_SENDER_H
-#define SR_RDT_SENDER_H
+#ifndef TCP_SENDER_H
+#define TCP_SENDER_H
 #include "../include/RdtSender.h"
 #include <vector>
-class SRRdtSender :public RdtSender
+class TCPSender :public RdtSender
 {
 private:
 	int expectSequenceNumberSend;	// 下一个发送序号 
 	bool waitingState;				// 是否处于等待Ack的状态
 	// Packet packetWaitingAck;		//已发送并等待Ack的数据包
     std::vector<Packet*> window;
-	std::vector<int> window_recd;
     int window_size; 
     int max_seqnum;
+    int ack_times;
 
 public:
 	int get_count(int x);
@@ -21,8 +21,8 @@ public:
 	void timeoutHandler(int seqNum);					    //Timeout handler，将被NetworkServiceSimulator调用
 
 public:
-	SRRdtSender();
-	virtual ~SRRdtSender();
+	TCPSender();
+	virtual ~TCPSender();
 };
 
 #endif

@@ -5,11 +5,13 @@
 class SRRdtReceiver :public RdtReceiver
 {
 private:
-	int expectSequenceNumberRcvd;	// 期待收到的下一个报文序号
+	// int expectSequenceNumberRcvd;	// 期待收到的下一个报文序号
 	//Packet lastAckPkt;				//上次发送的确认报文
     int max_seqnum;
     int window_size;
-    std::vector<Packet*> window;
+    std::vector<Packet> window;
+	std::vector<int> expectSequenceNumberRcvd;
+	std::vector<int> is_recd;
 
 public:
 	SRRdtReceiver();

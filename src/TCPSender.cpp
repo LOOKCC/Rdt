@@ -1,27 +1,28 @@
 #include "../include/Base.h"
 #include "../include/Global.h"
-#include "../include/SRRdtSender.h"
+#include "../include/TCPSender.h"
 
 
-SRRdtSender::SRRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
+TCPSender::TCPSender():expectSequenceNumberSend(0),waitingState(false),
+    window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM),ack_times(0)
 {
 }
 
 
-SRRdtSender::~SRRdtSender()
+TCPSender::~TCPSender()
 {
 }
 
 
 
-bool SRRdtSender::getWaitingState() {
+bool TCPSender::getWaitingState() {
 	return waitingState;
 }
 
 
 
 
-bool SRRdtSender::send(Message &message) {
+bool TCPSender::send(Message &message) {
 	if (this->waitingState) { //发送方处于等待确认状态
 		return false;
 	}
@@ -38,7 +39,6 @@ bool SRRdtSender::send(Message &message) {
 	pns->startTimer(SENDER, Configuration::TIME_OUT,pkg->seqnum);			//启动发送方定时器
 	pns->sendToNetworkLayer(RECEIVER, *pkg);								//调用模拟网络环境的sendToNetworkLayer，通过网络层发送到对方
     this->window.push_back(pkg);
-	this->window_recd.push_back(0);
 
 	if(this->window.size() == this->window_size){
         this->waitingState = true;
@@ -46,7 +46,7 @@ bool SRRdtSender::send(Message &message) {
 	return true;
 }
 
-int SRRdtSender::get_count(int x){
+int TCPSender::get_count(int x){
 	for(int i=0; i<this->window.size(); i++){
 		if(this->window[i]->seqnum == x)
 			return i;
@@ -55,28 +55,29 @@ int SRRdtSender::get_count(int x){
 }
 
 
-void SRRdtSender::receive(Packet &ackPkt) {
+void TCPSender::receive(Packet &ackPkt) {
 	//检查校验和是否正确
 	int checkSum = pUtils->calculateCheckSum(ackPkt);
 	//如果校验和正确，并且确认序号=发送方已发送并等待确认的数据包序号
 	if (checkSum == ackPkt.checksum) {
-		for(int i=0; i<this->window.size; i++){
-			if(this->window[i]->seqnum == ackPkt.seqnum)
-				this->window_recd[i] = 1;
-		}
-		pUtils->printPacket("发送方正确收到确认", ackPkt);
-		int count = window_size;
-		for(int i=0; i<this->window_recd.size(); i++){
-			if(this->window_recd[i] == 0)
-				count = i;
-			}
-		for(int i = 0; i < count; i++){
-			pns->stopTimer(SENDER, this->window.front()->seqnum);		//关闭定时器
-			this->window.erase(this->window.begin());
-			this->window_recd.erase(this->window_recd.begin());
-		}
-		if(this->window.size() < this->window_size)
-			this->waitingState = false;
+		int count = get_count(ackPkt.acknum);
+        if(count != -1){
+            pUtils->printPacket("发送方正确收到确认", ackPkt);
+            for(int i = 0; i < count+1; i++){
+                pns->stopTimer(SENDER, this->window.front()->seqnum);		//关闭定时器
+                this->window.erase(this->window.begin());
+            }
+            this->waitingState = false;
+        }else{
+            this->ack_times++;
+            if(this->ack_times == 3){
+                // send packets
+
+
+                this->ack_times = 0;
+            }
+        }
+		
 	}
 	else {
 		// pUtils->printPacket("发送方没有正确收到确认，重发上次发送的报文", this->packetWaitingAck);
@@ -86,14 +87,16 @@ void SRRdtSender::receive(Packet &ackPkt) {
 	}	
 }
 
-void SRRdtSender::timeoutHandler(int seqNum) {
+void TCPSender::timeoutHandler(int seqNum) {
 	int count = get_count(seqNum);
 	if(count == -1)
 		return ;
-	//唯一一个定时器,无需考虑seqNum
-	pUtils->printPacket("发送方定时器时间到，重发上次发送的报文", *this->window[count]);
-	pns->stopTimer(SENDER, this->window[count]->seqnum);										//首先关闭定时器
-	pns->startTimer(SENDER, Configuration::TIME_OUT, this->window[count]->seqnum);			//重新启动发送方定时器
-	pns->sendToNetworkLayer(RECEIVER, *this->window[count]);			//重新发送数据包
+	
+    //send pkg
+    
+    // pUtils->printPacket("发送方定时器时间到，重发上次发送的报文", *this->window[i]);
+    // pns->stopTimer(SENDER, this->window[i]->seqnum);										//首先关闭定时器
+    // pns->startTimer(SENDER, Configuration::TIME_OUT, this->window[i]->seqnum);			//重新启动发送方定时器
+    // pns->sendToNetworkLayer(RECEIVER, *this->window[i]);			//重新发送数据包
 }
 
