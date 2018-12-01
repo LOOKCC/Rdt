@@ -6,7 +6,7 @@ class SRRdtReceiver :public RdtReceiver
 {
 private:
 	// int expectSequenceNumberRcvd;	// 期待收到的下一个报文序号
-	//Packet lastAckPkt;				//上次发送的确认报文
+	Packet lastAckPkt;				//上次发送的确认报文
     int max_seqnum;
     int window_size;
     std::vector<Packet> window;
@@ -18,7 +18,7 @@ public:
 	virtual ~SRRdtReceiver();
 
 public:
-	
+	int get_index(int x);
 	void receive(Packet &packet);	//接收报文，将被NetworkService调用
 };
 

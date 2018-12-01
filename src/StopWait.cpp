@@ -4,14 +4,14 @@
 #include "../include/Global.h"
 #include "../include/RdtSender.h"
 #include "../include/RdtReceiver.h"
-#include "../include/GBNRdtSender.h"
-#include "../include/GBNRdtReceiver.h"
+#include "../include/SRRdtSender.h"
+#include "../include/SRRdtReceiver.h"
 
 
 int main(int argc, char* argv[])
 {
-	RdtSender *ps = new GBNRdtSender();
-	RdtReceiver * pr = new GBNRdtReceiver();
+	RdtSender *ps = new SRRdtSender();
+	RdtReceiver * pr = new SRRdtReceiver();
 	pns->init();
 	pns->setRtdSender(ps);
 	pns->setRtdReceiver(pr);

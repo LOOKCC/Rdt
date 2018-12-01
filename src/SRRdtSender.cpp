@@ -60,20 +60,25 @@ void SRRdtSender::receive(Packet &ackPkt) {
 	int checkSum = pUtils->calculateCheckSum(ackPkt);
 	//如果校验和正确，并且确认序号=发送方已发送并等待确认的数据包序号
 	if (checkSum == ackPkt.checksum) {
-		for(int i=0; i<this->window.size; i++){
-			if(this->window[i]->seqnum == ackPkt.seqnum)
+		for(int i=0; i<this->window.size(); i++){
+			if(this->window[i]->seqnum == ackPkt.acknum){
 				this->window_recd[i] = 1;
-		}
-		pUtils->printPacket("发送方正确收到确认", ackPkt);
-		int count = window_size;
-		for(int i=0; i<this->window_recd.size(); i++){
-			if(this->window_recd[i] == 0)
-				count = i;
 			}
+		}
+
+		pUtils->printPacket("发送方正确收到确认", ackPkt);
+		int count = this->window.size();
+		for(int i=0; i<this->window_recd.size(); i++){
+			if(this->window_recd[i] == 0){
+				count = i;
+				break;
+			}
+		}
 		for(int i = 0; i < count; i++){
 			pns->stopTimer(SENDER, this->window.front()->seqnum);		//关闭定时器
 			this->window.erase(this->window.begin());
 			this->window_recd.erase(this->window_recd.begin());
+
 		}
 		if(this->window.size() < this->window_size)
 			this->waitingState = false;
