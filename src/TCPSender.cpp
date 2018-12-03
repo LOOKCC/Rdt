@@ -72,8 +72,11 @@ void TCPSender::receive(Packet &ackPkt) {
             this->ack_times++;
             if(this->ack_times == 3){
                 // send packets
-
-
+				for(int i=0; i<window.size(); i++){
+					pns->stopTimer(SENDER, this->window[i]->seqnum);										//首先关闭定时器
+					pns->startTimer(SENDER, Configuration::TIME_OUT, this->window[i]->seqnum);			//重新启动发送方定时器
+					pns->sendToNetworkLayer(RECEIVER, *this->window[i]);			//重新发送数据包
+				}
                 this->ack_times = 0;
             }
         }
@@ -91,12 +94,12 @@ void TCPSender::timeoutHandler(int seqNum) {
 	int count = get_count(seqNum);
 	if(count == -1)
 		return ;
-	
     //send pkg
-    
-    // pUtils->printPacket("发送方定时器时间到，重发上次发送的报文", *this->window[i]);
-    // pns->stopTimer(SENDER, this->window[i]->seqnum);										//首先关闭定时器
-    // pns->startTimer(SENDER, Configuration::TIME_OUT, this->window[i]->seqnum);			//重新启动发送方定时器
-    // pns->sendToNetworkLayer(RECEIVER, *this->window[i]);			//重新发送数据包
+    for(int i=0; i<this->window.size(); i++){
+		 pUtils->printPacket("发送方定时器时间到，重发上次发送的报文", *this->window[i]);
+		pns->stopTimer(SENDER, this->window[i]->seqnum);										//首先关闭定时器
+		pns->startTimer(SENDER, Configuration::TIME_OUT, this->window[i]->seqnum);			//重新启动发送方定时器
+		pns->sendToNetworkLayer(RECEIVER, *this->window[i]);			//重新发送数据包
+	}
 }
 
