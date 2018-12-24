@@ -5,11 +5,13 @@
 
 GBNRdtSender::GBNRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
 {
+	this->fout.open("../GBNOut.txt", ios::app);
 }
 
 
 GBNRdtSender::~GBNRdtSender()
 {
+	this->fout.close();
 }
 
 
@@ -38,6 +40,12 @@ bool GBNRdtSender::send(Message &message) {
 	pns->startTimer(SENDER, Configuration::TIME_OUT,pkg->seqnum);			//启动发送方定时器
 	pns->sendToNetworkLayer(RECEIVER, *pkg);								//调用模拟网络环境的sendToNetworkLayer，通过网络层发送到对方
     this->window.push_back(pkg);
+	
+	fout<<"after sending: ";
+	for(int i=0; i<this->window.size(); i++){
+		fout<<this->window[i]->seqnum<<" ";
+	}
+	fout<<endl;
 
 	if(this->window.size() == this->window_size){
         this->waitingState = true;
@@ -65,22 +73,20 @@ void GBNRdtSender::receive(Packet &ackPkt) {
 			pns->stopTimer(SENDER, this->window.front()->seqnum);		//关闭定时器
 			this->window.erase(this->window.begin());
 		}
+
+		fout<<"after receiving: ";
+		for(int i=0; i<this->window.size(); i++){
+			fout<<this->window[i]->seqnum<<" ";
+		}
+		fout<<endl;
 		this->waitingState = false;
 	}
-	else {
-		// pUtils->printPacket("发送方没有正确收到确认，重发上次发送的报文", this->packetWaitingAck);
-		// pns->stopTimer(SENDER, this->packetWaitingAck.seqnum);									//首先关闭定时器
-		// pns->startTimer(SENDER, Configuration::TIME_OUT, this->packetWaitingAck.seqnum);			//重新启动发送方定时器
-		// pns->sendToNetworkLayer(RECEIVER, this->packetWaitingAck);								//重新发送数据包
-	}	
 }
 
 void GBNRdtSender::timeoutHandler(int seqNum) {
 	int count = get_count(seqNum);
 	if(count == -1)
 		return ;
-	//唯一一个定时器,无需考虑seqNum
-
 	for(int i = count; i < this->window.size(); i++){
 		pUtils->printPacket("发送方定时器时间到，重发上次发送的报文", *this->window[i]);
 		pns->stopTimer(SENDER, this->window[i]->seqnum);										//首先关闭定时器

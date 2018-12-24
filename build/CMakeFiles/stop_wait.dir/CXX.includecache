@@ -49,6 +49,8 @@ iostream
 /home/wzh/code/school_work/computer_network/Rdt/include/RdtSender.h
 vector
 -
+fstream
+-
 
 /home/wzh/code/school_work/computer_network/Rdt/include/Tool.h
 ../include/DataStructure.h
@@ -65,14 +67,6 @@ vector
 /home/wzh/code/school_work/computer_network/Rdt/include/RdtReceiver.h
 ../include/TCPSender.h
 /home/wzh/code/school_work/computer_network/Rdt/include/TCPSender.h
-../include/TCPReceiver.h
-/home/wzh/code/school_work/computer_network/Rdt/include/TCPReceiver.h
-
-/home/wzh/code/school_work/computer_network/Rdt/src/TCPReceiver.cpp
-../include/Base.h
-/home/wzh/code/school_work/computer_network/Rdt/include/Base.h
-../include/Global.h
-/home/wzh/code/school_work/computer_network/Rdt/include/Global.h
 ../include/TCPReceiver.h
 /home/wzh/code/school_work/computer_network/Rdt/include/TCPReceiver.h
 

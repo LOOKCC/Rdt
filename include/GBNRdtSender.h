@@ -2,6 +2,7 @@
 #define GBN_RDT_SENDER_H
 #include "../include/RdtSender.h"
 #include <vector>
+#include <fstream>
 class GBNRdtSender :public RdtSender
 {
 private:
@@ -11,6 +12,7 @@ private:
     std::vector<Packet*> window;
     int window_size; 
     int max_seqnum;
+	ofstream fout;
 
 public:
 	int get_count(int x);

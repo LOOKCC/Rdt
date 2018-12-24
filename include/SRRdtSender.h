@@ -2,6 +2,7 @@
 #define SR_RDT_SENDER_H
 #include "../include/RdtSender.h"
 #include <vector>
+#include <fstream>
 class SRRdtSender :public RdtSender
 {
 private:
@@ -12,6 +13,7 @@ private:
 	std::vector<int> window_recd;
     int window_size; 
     int max_seqnum;
+	std::ofstream fout;
 
 public:
 	int get_count(int x);

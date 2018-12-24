@@ -2,6 +2,7 @@
 #define TCP_SENDER_H
 #include "../include/RdtSender.h"
 #include <vector>
+#include <fstream>
 class TCPSender :public RdtSender
 {
 private:
@@ -12,6 +13,7 @@ private:
     int window_size; 
     int max_seqnum;
     int ack_times;
+	ofstream fout;
 
 public:
 	int get_count(int x);

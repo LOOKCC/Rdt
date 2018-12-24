@@ -18,11 +18,13 @@ SRRdtReceiver::SRRdtReceiver():expectSequenceNumberRcvd(0),window_size(Configura
 		this->window.push_back(packet);
 		this->is_recd.push_back(0);
 	}
+	this->fout.open("../SRRecOut.txt", ios::app);
 }
 
 
 SRRdtReceiver::~SRRdtReceiver()
 {
+	this->fout.close();
 }
 
 int SRRdtReceiver::get_index(int x){
@@ -75,6 +77,16 @@ void SRRdtReceiver::receive(Packet &packet) {
 			this->is_recd.push_back(0);
 
 		}
+		fout<<"after receiving, expected seqnum: ";
+		for(int i=0; i<this->expectSequenceNumberRcvd.size(); i++){
+			fout<<this->expectSequenceNumberRcvd[i]<<" ";
+		}
+		fout<<endl;
+		fout<<"after receiving, whether received packet ";
+		for(int i=0; i<this->is_recd.size(); i++){
+			fout<<this->is_recd[i]<<" ";
+		}
+		fout<<endl;
 	}
 	else {
 		if (checkSum != packet.checksum) {

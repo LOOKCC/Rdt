@@ -2,6 +2,7 @@
 #define SR_RDT_RECEIVER_H
 #include "../include/RdtReceiver.h"
 #include <vector>
+#include <fstream>
 class SRRdtReceiver :public RdtReceiver
 {
 private:
@@ -12,6 +13,7 @@ private:
     std::vector<Packet> window;
 	std::vector<int> expectSequenceNumberRcvd;
 	std::vector<int> is_recd;
+	std::ofstream fout;
 
 public:
 	SRRdtReceiver();

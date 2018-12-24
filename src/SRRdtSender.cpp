@@ -5,11 +5,13 @@
 
 SRRdtSender::SRRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
 {
+	this->fout.open("../SRSendOut.txt", ios::app);
 }
 
 
 SRRdtSender::~SRRdtSender()
 {
+	this->fout.close();
 }
 
 
@@ -39,6 +41,12 @@ bool SRRdtSender::send(Message &message) {
 	pns->sendToNetworkLayer(RECEIVER, *pkg);								//调用模拟网络环境的sendToNetworkLayer，通过网络层发送到对方
     this->window.push_back(pkg);
 	this->window_recd.push_back(0);
+
+	fout<<"after sending: ";
+	for(int i=0; i<this->window.size(); i++){
+		fout<<this->window[i]->seqnum<<" ";
+	}
+	fout<<endl;
 
 	if(this->window.size() == this->window_size){
         this->waitingState = true;
@@ -82,12 +90,17 @@ void SRRdtSender::receive(Packet &ackPkt) {
 		}
 		if(this->window.size() < this->window_size)
 			this->waitingState = false;
-	}
-	else {
-		// pUtils->printPacket("发送方没有正确收到确认，重发上次发送的报文", this->packetWaitingAck);
-		// pns->stopTimer(SENDER, this->packetWaitingAck.seqnum);									//首先关闭定时器
-		// pns->startTimer(SENDER, Configuration::TIME_OUT, this->packetWaitingAck.seqnum);			//重新启动发送方定时器
-		// pns->sendToNetworkLayer(RECEIVER, this->packetWaitingAck);								//重新发送数据包
+		
+		fout<<"after receiving, seqnum: ";
+		for(int i=0; i<this->window.size(); i++){
+			fout<<this->window[i]->seqnum<<" ";
+		}
+		fout<<endl;
+		fout<<"after receiving, whether received ACK ";
+		for(int i=0; i<this->window_recd.size(); i++){
+			fout<<this->window_recd[i]<<" ";
+		}
+		fout<<endl;
 	}	
 }
 
