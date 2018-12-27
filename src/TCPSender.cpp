@@ -76,6 +76,7 @@ void TCPSender::receive(Packet &ackPkt) {
                 this->window.erase(this->window.begin());
             }
             this->waitingState = false;
+			this->ack_times = 0;
         }else{
             this->ack_times++;
             if(this->ack_times == 3){

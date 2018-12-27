@@ -5,91 +5,25 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
@@ -98,7 +32,221 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 2 3 4 
@@ -107,79 +255,46 @@ after receiving: 4
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -188,49 +303,6 @@ after sending: 5 6
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
@@ -243,31 +315,10 @@ after receiving: 3 4
 after receiving: 4 
 after receiving: 
 after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
@@ -276,19 +327,80 @@ after sending: 1
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -297,8 +409,8 @@ after sending: 1 2 3 4
 after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -311,10 +423,163 @@ after sending: 1 2 3 4
 after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -325,10 +590,52 @@ after receiving: 6 7 0
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
 after receiving: 0 
 after receiving: 
 after sending: 1 
@@ -337,13 +644,24 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -351,38 +669,17 @@ after sending: 5 6
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
@@ -391,7 +688,6 @@ after sending: 5 6
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -402,16 +698,17 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
+after receiving: 1 2 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -419,11 +716,19 @@ after sending: 5
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -434,145 +739,17 @@ after receiving: 3 4
 after receiving: 4 
 after receiving: 
 after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
 after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
@@ -582,27 +759,9 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -613,12 +772,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -627,13 +807,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -641,120 +940,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -764,80 +958,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -848,46 +968,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -896,7 +1040,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -904,9 +1088,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -917,12 +1102,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -931,13 +1137,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -945,120 +1270,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -1068,80 +1288,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -1152,46 +1298,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -1200,7 +1370,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -1208,9 +1418,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -1221,12 +1432,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -1235,13 +1467,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -1249,120 +1600,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -1372,80 +1618,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -1456,46 +1628,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -1504,7 +1700,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -1512,9 +1748,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -1525,12 +1762,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -1539,13 +1797,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -1553,120 +1930,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -1676,80 +1948,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -1760,46 +1958,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -1808,7 +2030,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -1816,9 +2078,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -1829,12 +2092,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -1843,13 +2127,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -1857,120 +2260,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -1980,80 +2278,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -2064,46 +2288,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2112,7 +2360,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -2120,9 +2408,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -2133,12 +2422,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2147,13 +2457,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -2161,120 +2590,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -2284,80 +2608,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -2368,46 +2618,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2416,7 +2690,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -2424,9 +2738,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -2437,12 +2752,33 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2451,13 +2787,132 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -2465,120 +2920,15 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -2588,80 +2938,6 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
 after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
@@ -2672,46 +2948,70 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
-after receiving: 
-after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2720,7 +3020,47 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -2728,9 +3068,10 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 
@@ -2741,12 +3082,18 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2755,27 +3102,18 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-3 times ACK: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
 after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
-after receiving: 1 2 3 4 
-after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
-after receiving: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 4 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -2783,50 +3121,9 @@ after sending: 5 6
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
-after receiving: 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 7 0 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
-after receiving: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
-after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 1 
@@ -2834,7 +3131,17 @@ after sending: 1 2
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 1 2 3 4 
-3 times ACK: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 1 2 3 4 
 after receiving: 2 3 4 
@@ -2843,46 +3150,32 @@ after receiving: 4
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 0 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
-after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 3 4 
-after receiving: 4 
 after receiving: 
 after receiving: 
-after sending: 5 
-after sending: 5 6 
-after sending: 5 6 7 
-after sending: 5 6 7 0 
-after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 
-after sending: 1 
-after sending: 1 2 
-after sending: 1 2 3 
-after sending: 1 2 3 4 
-after receiving: 2 3 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-3 times ACK: 4 
-after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -2895,27 +3188,17 @@ after receiving: 7 0
 after receiving: 0 
 after receiving: 
 after receiving: 
+after receiving: 
 after sending: 1 
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-after receiving: 2 3 4 
-3 times ACK: 2 3 4 
-after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
 after receiving: 3 4 
 after receiving: 4 
-after receiving: 4 
-after receiving: 4 
-after receiving: 
-after receiving: 
-after receiving: 
-3 times ACK: 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -2925,6 +3208,65 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -2935,11 +3277,59 @@ after sending: 1 2 3 4
 after receiving: 2 3 4 
 after receiving: 2 3 4 
 after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
 after receiving: 4 
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after sending: 5 6 
@@ -2950,7 +3340,90 @@ after receiving: 0
 after receiving: 
 after receiving: 
 after receiving: 
-3 times ACK: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 1 
@@ -2961,12 +3434,161 @@ after receiving: 2 3 4
 after receiving: 3 4 
 after receiving: 4 
 after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after receiving: 
+after sending: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
 after sending: 5 
 after sending: 5 6 
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
@@ -2976,7 +3598,7 @@ after sending: 1 2 3
 after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 4 
+after receiving: 
 after receiving: 
 after receiving: 
 after receiving: 
@@ -2985,7 +3607,60 @@ after sending: 5 6
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
+after receiving: 6 7 0 
 after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 1 
@@ -2995,7 +3670,9 @@ after sending: 1 2 3 4
 after receiving: 2 3 4 
 after receiving: 3 4 
 after receiving: 4 
-after receiving: 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -3003,7 +3680,6 @@ after sending: 5 6
 after sending: 5 6 7 
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
-after receiving: 7 0 
 after receiving: 7 0 
 after receiving: 0 
 after receiving: 
@@ -3012,10 +3688,30 @@ after sending: 1
 after sending: 1 2 
 after sending: 1 2 3 
 after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
 after receiving: 2 3 4 
 after receiving: 3 4 
-after receiving: 3 4 
-after receiving: 3 4 
+after receiving: 4 
+after receiving: 
 after receiving: 
 after receiving: 
 after sending: 5 
@@ -3024,7 +3720,202 @@ after sending: 5 6 7
 after sending: 5 6 7 0 
 after receiving: 6 7 0 
 after receiving: 6 7 0 
+after receiving: 6 7 0 
 after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after receiving: 
+after sending: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 1 
 after sending: 1 2 
@@ -3034,7 +3925,245 @@ after receiving: 2 3 4
 after receiving: 3 4 
 after receiving: 3 4 
 after receiving: 3 4 
+after receiving: 3 4 
 after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 4 
+after receiving: 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 5 6 7 0 
+after receiving: 6 7 0 
+after receiving: 7 0 
+after receiving: 0 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after receiving: 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving: 2 3 4 
+after receiving: 3 4 
+after receiving: 4 
+after receiving: 
+after receiving: 
+after receiving: 
 after receiving: 
 after sending: 5 
 after receiving: 

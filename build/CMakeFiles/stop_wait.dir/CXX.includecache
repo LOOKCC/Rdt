@@ -40,10 +40,6 @@ iostream
 ../include/DataStructure.h
 /home/wzh/code/school_work/computer_network/Rdt/include/DataStructure.h
 
-/home/wzh/code/school_work/computer_network/Rdt/include/TCPReceiver.h
-../include/RdtReceiver.h
-/home/wzh/code/school_work/computer_network/Rdt/include/RdtReceiver.h
-
 /home/wzh/code/school_work/computer_network/Rdt/include/TCPSender.h
 ../include/RdtSender.h
 /home/wzh/code/school_work/computer_network/Rdt/include/RdtSender.h
@@ -55,20 +51,6 @@ fstream
 /home/wzh/code/school_work/computer_network/Rdt/include/Tool.h
 ../include/DataStructure.h
 /home/wzh/code/school_work/computer_network/Rdt/include/DataStructure.h
-
-/home/wzh/code/school_work/computer_network/Rdt/src/StopWait.cpp
-../include/Base.h
-/home/wzh/code/school_work/computer_network/Rdt/include/Base.h
-../include/Global.h
-/home/wzh/code/school_work/computer_network/Rdt/include/Global.h
-../include/RdtSender.h
-/home/wzh/code/school_work/computer_network/Rdt/include/RdtSender.h
-../include/RdtReceiver.h
-/home/wzh/code/school_work/computer_network/Rdt/include/RdtReceiver.h
-../include/TCPSender.h
-/home/wzh/code/school_work/computer_network/Rdt/include/TCPSender.h
-../include/TCPReceiver.h
-/home/wzh/code/school_work/computer_network/Rdt/include/TCPReceiver.h
 
 /home/wzh/code/school_work/computer_network/Rdt/src/TCPSender.cpp
 ../include/Base.h
