@@ -5,7 +5,7 @@
 
 SRRdtSender::SRRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
 {
-	this->fout.open("../SRSendOut.txt", ios::app);
+	this->fout.open("SRSendOut.txt", ios::app);
 }
 
 

@@ -5,7 +5,7 @@
 
 GBNRdtSender::GBNRdtSender():expectSequenceNumberSend(0),waitingState(false),window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM)
 {
-	this->fout.open("../GBNOut.txt", ios::app);
+	this->fout.open("GBNOut.txt", ios::app);
 }
 
 

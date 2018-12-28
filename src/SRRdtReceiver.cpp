@@ -18,7 +18,7 @@ SRRdtReceiver::SRRdtReceiver():expectSequenceNumberRcvd(0),window_size(Configura
 		this->window.push_back(packet);
 		this->is_recd.push_back(0);
 	}
-	this->fout.open("../SRRecOut.txt", ios::app);
+	this->fout.open("SRRecOut.txt", ios::app);
 }
 
 

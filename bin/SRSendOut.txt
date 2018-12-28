@@ -1,0 +1,462 @@
+after sending: 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 4 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 0 1 0 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 0 0 1 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 0 1 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 0 0 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 0 1 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 4 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 0 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 0 0 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 1 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 1 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 1 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 1 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 4 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 0 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 0 0 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 1 0 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 0 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 4 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 0 0 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 1 0 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 1 0 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 1 2 3 4 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 0 0 1 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 0 1 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 5 6 7 0 
+after receiving, whether received ACK 0 1 1 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after sending: 5 6 
+after sending: 5 6 7 
+after sending: 5 6 7 0 
+after receiving, seqnum: 6 7 0 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 7 0 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 0 
+after receiving, whether received ACK 0 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 1 
+after sending: 1 2 
+after sending: 1 2 3 
+after sending: 1 2 3 4 
+after receiving, seqnum: 2 3 4 
+after receiving, whether received ACK 0 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 0 
+after receiving, seqnum: 3 4 
+after receiving, whether received ACK 0 1 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after receiving, seqnum: 
+after receiving, whether received ACK 
+after sending: 5 
+after receiving, seqnum: 
+after receiving, whether received ACK 

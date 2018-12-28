@@ -6,7 +6,7 @@
 TCPSender::TCPSender():expectSequenceNumberSend(0),waitingState(false),
     window_size(Configuration::WINDOW_SIZE),max_seqnum(Configuration::MAX_SEQNUM),ack_times(0)
 {
-	this->fout.open("../TCPOut.txt", ios::app);
+	this->fout.open("TCPOut.txt", ios::app);
 }
 
 
